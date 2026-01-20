@@ -1,55 +1,60 @@
 # 👋 Halo, Saya Jonathan Raditya Dhimas Pramesta Wibowo
 
 🎓 **Pelajar SMK Negeri 5 Surakarta**  
-💻 **Minat:** Programming, Web Development, dan Data Analyst Pemula  
+📊 **Data Analyst Pemula**  
 📍 **Indonesia**
 
 ---
 
 ## 👨‍💻 Tentang Saya
-Saya adalah pelajar SMK yang sedang mempelajari dunia **pemrograman dan teknologi informasi**.  
-Saya tertarik pada pengembangan aplikasi, website, serta pengolahan data menggunakan bahasa pemrograman.
+Saya adalah pelajar SMK yang memiliki minat di bidang **Data Analyst dan pengolahan data**.  
+Saya tertarik pada proses mengumpulkan, mengolah, menganalisis, dan memvisualisasikan data untuk menghasilkan insight yang bermanfaat.
 
-Saat ini saya aktif mengerjakan tugas sekolah dan proyek kecil untuk meningkatkan skill coding saya.
+Saat ini saya aktif mengerjakan tugas sekolah, latihan analisis data, serta proyek kecil untuk meningkatkan kemampuan di bidang data.
 
 ---
 
 ## 🛠️ Skill & Tools
-- **Bahasa Pemrograman:**  
-  - Python  
-  - PHP  
-  - Java (Dasar)
+### 📊 Data Analyst
+- Data Cleaning & Data Processing  
+- Exploratory Data Analysis (EDA)  
+- Dasar Visualisasi Data  
+- SQL Query Dasar  
 
-- **Web Development:**  
-  - HTML  
-  - CSS  
-  - JavaScript (Dasar)
+### 💻 Bahasa & Teknologi
+- **Python** (Pandas, Matplotlib – Dasar)
+- **SQL**
+- **MySQL**
+- **Excel / Spreadsheet**
 
-- **Database:**  
-  - MySQL  
-  - SQL Dasar
-
-- **Tools:**  
-  - Git & GitHub  
-  - Visual Studio Code  
-  - XAMPP
+### 🔧 Tools
+- Git & GitHub  
+- Visual Studio Code  
+- Google Colab  
+- XAMPP  
 
 ---
 
 ## 📚 Sedang Dipelajari
-- Data Analyst Dasar  
-- Git & Version Control  
-- Pengembangan Aplikasi Android  
-- Database Lanjutan
+- Data Analyst Lanjutan  
+- Python untuk Analisis Data  
+- SQL Query Lanjutan  
+- Visualisasi Data (Chart & Dashboard)  
+- Dasar Statistik
 
 ---
 
 ## 📂 Repository
 Repository di akun ini berisi:
-- Tugas sekolah
-- Latihan pemrograman
-- Proyek kecil (Web, Python, Android)
-- Contoh implementasi database
+- Tugas sekolah Data Analyst
+- Latihan Python & SQL
+- Studi kasus analisis data
+- Proyek mini Data Analyst
+
+---
+
+## 🎯 Tujuan
+Membangun portofolio sebagai **Data Analyst Pemula** dan meningkatkan skill analisis data secara bertahap untuk persiapan dunia kerja dan studi lanjut.
 
 ---
 
@@ -59,4 +64,7 @@ Repository di akun ini berisi:
 
 ---
 
-✨ *Terima kasih sudah mengunjungi profil GitHub saya!*  
+✨ *Terima kasih telah mengunjungi profil GitHub saya!*  
+
+
+

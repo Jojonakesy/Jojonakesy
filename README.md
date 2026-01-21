@@ -1,42 +1,44 @@
-# Jonathan Raditya | Data Analyst
-
-**SMK Negeri 5 Surakarta** | Solo, Indonesia
+# Jonathan Raditya | Data Analyst Pemula
+**Siswa PKL** • SMK Negeri 5 Surakarta • Solo, Indonesia
 
 ---
 
-## 🛠️ Skills
-**Analysis:** Python (Pandas, Matplotlib), SQL, Excel  
+## 📊 Skills & Tools
+**Bahasa Pemrograman:** Python, SQL  
+**Libraries:** Pandas, Matplotlib  
 **Database:** MySQL  
-**Tools:** Git, VS Code, Google Colab, XAMPP  
+**Tools:** Git, VS Code, Excel, Google Colab  
 
 ---
 
-## 📊 Tugas Sekolah - 8 Weeks
+## 📂 Portfolio - 8 Minggu Projek
 
-| Week | Topik | Status |
-|------|-------|--------|
-| 1 | Data Analysis Fundamentals | ✅ Selesai |
-| 2 | Python untuk Data Analysis | ✅ Selesai |
-| 3 | Data Cleaning & Processing | ✅ Selesai |
-| 4 | Exploratory Data Analysis (EDA) | ✅ Selesai |
-| 5 | Data Visualization Basics | ✅ Selesai |
-| 6 | SQL Fundamentals | ✅ Selesai |
-| 7 | SQL Query Lanjutan | ✅ Selesai |
-| 8 | Final Project: Analisis Data | ✅ Selesai |
-
-*Repository tersedia di GitHub*
+| Minggu | Link Repo |
+|--------|-----------|
+| Week 1 | [github.com/username/week1](https://github.com/username/week1) |
+| Week 2 | [github.com/username/week2](https://github.com/username/week2) |
+| Week 3 | [github.com/username/week3](https://github.com/username/week3) |
+| Week 4 | [github.com/username/week4](https://github.com/username/week4) |
+| Week 5 | [github.com/username/week5](https://github.com/username/week5) |
+| Week 6 | [github.com/username/week6](https://github.com/username/week6) |
+| Week 7 | [github.com/username/week7](https://github.com/username/week7) |
+| Week 8 | [github.com/username/week8](https://github.com/username/week8) |
 
 ---
 
-## 🚀 Proyek
-- Sales Data Analysis dengan Python
-- Database Management System dengan MySQL
-- Data Visualization Dashboard
+## 🔧 Pengalaman Praktik
+- Analisis dataset menggunakan Python & Pandas
+- Query SQL untuk pengolahan data
+- Visualisasi data dengan Matplotlib
+- Version control dengan Git & GitHub
 
 ---
 
-## 📫 Kontak
-**GitHub:** github.com/username-kamu  
-**Email:** emailkamu@email.com  
+## 📞 Kontak
+**Email:** email@example.com  
+**GitHub:** [github.com/username](https://github.com/username)  
+**Lokasi:** Surakarta, Jawa Tengah
 
-> "Data is not just numbers, it tells a story."
+---
+
+*"Data analysis through practical learning."*

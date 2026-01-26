@@ -271,18 +271,3 @@ graph LR
 
 ---
 
-<div align="center" style="padding: 1.5rem; background: #f0f8ff; border-radius: 8px; border: 2px solid #e6f7ff;">
-
-### **"Eager to learn, ready to contribute, and committed to growing in data analysis."**
-
-**Full portfolio available for technical review:**  
-[https://github.com/username](https://github.com/username)
-
-</div>
-
----
-
-<div align="center" style="margin-top: 2rem; padding: 1rem; background: #f9f9f9; border-radius: 5px; font-size: 0.9em; color: #666;">
-*This document accurately represents current abilities and readiness as a PKL student.*  
-*Updated: March 2024*
-</div>

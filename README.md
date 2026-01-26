@@ -74,7 +74,7 @@ graph LR
 ### **Repositori GitHub**
 <div align="center">
 
-[![Week 1](https://img.shields.io/badge/Week_1-Masa_Pengenalan-blue?style=flat-square)]()
+[![Week 1](https://img.shields.io/badge/Week_1-Masa_Perkenalan-blue?style=flat-square)]()
 [![Week 2](https://img.shields.io/badge/Week_2-Data_Collection_&_Understanding-green?style=flat-square)](https://github.com/Jojonakesy/Basis-data-week-2)
 [![Week 3](https://img.shields.io/badge/Week_3-Data_Cleaning_&_Preparation-orange?style=flat-square)](https://github.com/Jojonakesy/Basis-Data-week-3)
 [![Week 4](https://img.shields.io/badge/Week_4-SQL_JOINs-purple?style=flat-square)](https://github.com/username/week4)

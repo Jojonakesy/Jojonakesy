@@ -1,111 +1,120 @@
-# **Jonathan Raditya | Calon Data Analyst**  
-**Siswa PKL SMK Negeri 5 Surakarta**  
+# **Jonathan Raditya | Calon Data Analyst**
 
 <div align="center">
   
-✨ *Belajar Data dengan Semangat* ✨
+### Siswa PKL | SMK Negeri 5 Surakarta
+**Siap belajar dan berkontribusi dalam analisis data**
 
 </div>
 
 ---
 
-## 📊 **Keterampilan yang Sudah Dikuasai**
+## 📊 **Keterampilan Teknis**
 
-```mermaid
-pie title Skill Distribution
-    "Python & Pandas" : 40
-    "SQL & Database" : 30
-    "Data Visualization" : 20
-    "Tools & Others" : 10
-```
-
-### **Dasar-dasar (Siap Pakai untuk Tugas Sederhana):**
-- **Python**: Cleaning data dengan Pandas, visualisasi sederhana dengan Matplotlib
-- **SQL**: Query dasar (SELECT, WHERE, JOIN, GROUP BY), praktek dengan MySQL
-- **Excel**: Pivot table, formula dasar, chart sederhana
-- **Tools**: VS Code, Google Colab, Git untuk version control
-
----
-
-## 📁 **Portfolio - Perkembangan Belajar 8 Minggu**
-
-<div align="center">
-  
-| Minggu | Progres | Status | Repo |
-|--------|---------|---------|------|
-| Week 1 | ✅ | Selesai | [🔗](https://github.com/username/week1) |
-| Week 2 | ✅ | Selesai | [🔗](https://github.com/username/week2) |
-| Week 3 | ✅ | Selesai | [🔗](https://github.com/username/week3) |
-| Week 4 | ✅ | Selesai | [🔗](https://github.com/username/week4) |
-| Week 5 | ✅ | Selesai | [🔗](https://github.com/username/week5) |
-| Week 6 | ✅ | Selesai | [🔗](https://github.com/username/week6) |
-| Week 7 | ✅ | Selesai | [🔗](https://github.com/username/week7) |
-| Week 8 | ✅ | Selesai | [🔗](https://github.com/username/week8) |
-
-</div>
-
----
-
-## 📈 **Progres Belajar**
-
+### **Bahasa & Teknologi**
 ```mermaid
 graph LR
-    A[Week 1-2<br>Fundamental] --> B[Week 3-4<br>Visualisasi]
-    B --> C[Week 5-6<br>Analisis]
-    C --> D[Week 7-8<br>Proyek Lengkap]
+    A[Python<br>Pandas, Matplotlib] --> B[SQL<br>MySQL]
+    B --> C[Tools<br>VS Code, Excel, Git]
+    C --> D[Visualisasi<br>Chart & Grafik]
 ```
+
+### **Level Kemampuan**
+- **Python & Pandas**: Data cleaning, transformasi, analisis dasar
+- **SQL**: Query data, filtering, aggregation sederhana
+- **Excel**: Formula dasar, pivot tables, charting
+- **Git**: Version control untuk dokumentasi kode
 
 ---
 
-## 🎯 **Yang Sudah Dipelajari**
+## 📈 **Portfolio Pembelajaran**
 
-<details>
-<summary><b>📌 Klik untuk lihat detail</b></summary>
+### **Progres 8 Minggu Belajar Mandiri**
+| Minggu | Fokus Pembelajaran | Proyek Contoh | Status |
+|--------|-------------------|---------------|---------|
+| **1-2** | Fundamental Python & Pandas | Data cleaning dataset sederhana | ✅ |
+| **3-4** | SQL Dasar & Query | Analisis data pelanggan | ✅ |
+| **5-6** | Visualisasi Data | Dashboard penjualan bulanan | ✅ |
+| **7-8** | Proyek Integrasi | Analisis e-commerce lengkap | ✅ |
 
-```python
-# Contoh sederhana dari apa yang sudah dipelajari
-import pandas as pd
-import matplotlib.pyplot as plt
-
-# Load data
-data = pd.read_csv('data.csv')
-
-# Cleaning sederhana
-data_clean = data.dropna()
-
-# Visualisasi
-plt.figure(figsize=(10,5))
-plt.plot(data_clean['tanggal'], data_clean['penjualan'])
-plt.title('Trend Penjualan')
-plt.show()
-```
-
-</details>
-
----
-
-## 🌟 **Proyek Contoh**
-
+### **Repositori GitHub**
 <div align="center">
 
-```mermaid
-graph TD
-    A[Data Mentah] --> B[Data Cleaning]
-    B --> C[Analisis Eksplorasi]
-    C --> D[Visualisasi]
-    D --> E[Insight & Laporan]
-```
+[![Week 1](https://img.shields.io/badge/Week_1-Data_Cleaning-blue?style=flat-square)](https://github.com/username/week1)
+[![Week 2](https://img.shields.io/badge/Week_2-SQL_Query-green?style=flat-square)](https://github.com/username/week2)
+[![Week 3](https://img.shields.io/badge/Week_3-Visualization-orange?style=flat-square)](https://github.com/username/week3)
+[![Week 4](https://img.shields.io/badge/Week_4-ETL_Pipeline-purple?style=flat-square)](https://github.com/username/week4)
+
+[![Week 5](https://img.shields.io/badge/Week_5-Dashboard-red?style=flat-square)](https://github.com/username/week5)
+[![Week 6](https://img.shields.io/badge/Week_6-Data_Analysis-yellow?style=flat-square)](https://github.com/username/week6)
+[![Week 7](https://img.shields.io/badge/Week_7-Integration-blueviolet?style=flat-square)](https://github.com/username/week7)
+[![Week 8](https://img.shields.io/badge/Week_8-Capstone_Project-success?style=flat-square)](https://github.com/username/week8)
 
 </div>
 
 ---
 
-## 📞 **Kontak**
+## 🎓 **Profil Pendidikan**
 
 <div align="center">
 
+**SMK NEGERI 5 SURAKARTA**
+*Teknik Komputer dan Jaringan*
+*Kelas XII - Siswa Aktif*
+
+</div>
+
+---
+
+## 💼 **Kesiapan PKL**
+
+### **Apa yang Bisa Saya Bantu:**
+1. **Data Preparation**: Cleaning dan organizing data
+2. **Basic Analysis**: Analisis statistik sederhana
+3. **Reporting**: Membuat laporan dengan visualisasi
+4. **Documentation**: Mendokumentasikan proses analisis
+
+### **Ekspektasi Saya:**
+- Pembelajaran langsung dari praktisi
+- Bimbingan dalam menyelesaikan tugas
+- Pengalaman dengan data dan tools industri
+
+---
+
+## ✨ **Nilai Tambah**
+
+<table>
+<tr>
+<td width="50%">
+
+### **Keunggulan**
+- 🔍 **Detail-oriented** dalam data cleaning
+- 📚 **Cepat belajar** tools dan teknik baru
+- 🤝 **Kolaboratif** dan terbuka untuk feedback
+- 📊 **Struktur kerja** yang rapi dan terdokumentasi
+
+</td>
+<td width="50%">
+
+### **Siap Untuk**
+- ✅ Tugas analisis data dasar
+- ✅ Proyek dengan bimbingan
+- ✅ Learning on the job
+- ✅ Berkontribusi dalam tim
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📞 **Kontak & Koneksi**
+
+<div align="center">
+
+### **Hubungi Saya**
 📧 **Email**: email@example.com  
-🐱 **GitHub**: [github.com/username](https://github.com/username)  
+💼 **GitHub**: [github.com/username](https://github.com/username)  
 📍 **Lokasi**: Surakarta, Jawa Tengah
 
 </div>
@@ -114,57 +123,70 @@ graph TD
 
 <div align="center">
 
-### 🔄 **Siap belajar dan berkembang!** 🔄
+### **"Antusias belajar, siap berkontribusi, dan ingin berkembang di bidang data analysis."**
 
 </div>
 
 ---
 
-**Catatan**: Untuk melihat animasi dan diagram interaktif, lihat versi online atau gunakan viewer yang mendukung MermaidJS dan animasi CSS.
-
----
-
 <style>
-/* Animasi sederhana */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+/* Animasi halus */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-@keyframes slideIn {
-  from { transform: translateY(20px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
+/* Animasi untuk section */
+section, table, .mermaid {
+  animation: fadeInUp 0.8s ease-out forwards;
 }
 
-/* Terapkan animasi */
-h1, h2, h3 {
-  animation: fadeIn 1s ease-in;
-}
-
-table {
-  animation: slideIn 0.8s ease-out;
-}
-
-/* Efek hover pada tabel */
+/* Hover effects */
 table tr:hover {
-  background-color: #f5f5f5;
-  transition: background-color 0.3s;
+  background: linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);
+  transition: all 0.3s ease;
 }
 
-/* Loading animation untuk diagram */
-mermaid {
-  animation: fadeIn 1.5s ease-in;
+/* Styling untuk badges */
+a[href*="github"] img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Pulsing effect untuk kontak */
+a[href*="github"]:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Gradien untuk header */
+div[align="center"]:first-child {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+/* Card effect untuk tabel */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Kontak section styling */
 div[align="center"]:last-child {
-  animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-  0% { opacity: 1; }
-  50% { opacity: 0.8; }
-  100% { opacity: 1; }
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-top: 2rem;
 }
 </style>
 
@@ -173,6 +195,17 @@ div[align="center"]:last-child {
   mermaid.initialize({
     startOnLoad: true,
     theme: 'neutral',
+    flowchart: {
+      curve: 'basis'
+    },
     securityLevel: 'loose'
+  });
+  
+  // Animasi sequential untuk sections
+  document.addEventListener('DOMContentLoaded', function() {
+    const elements = document.querySelectorAll('section, table, .mermaid, div[align="center"]');
+    elements.forEach((el, index) => {
+      el.style.animationDelay = `${index * 0.1}s`;
+    });
   });
 </script>

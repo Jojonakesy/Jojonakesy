@@ -9,38 +9,47 @@
 
 ---
 
-## 📊 **Keterampilan Teknis Dasar**
+## 📊 **Keterampilan Teknis**
 
+### **Bahasa & Teknologi**
+```mermaid
+graph LR
+    A[Python<br>Pandas dasar] --> B[SQL<br>MySQL dasar]
+    B --> C[Excel<br>Rumus dasar]
+    C --> D[Visualisasi<br>Grafik sederhana]
+```
+
+### **Level Kemampuan**
 <table>
 <tr>
 <td width="50%">
 
-**Python Dasar**
-• Data cleaning dengan Pandas
-• Filtering dan sorting data
-• Membaca file CSV dan Excel
-• Operasi data sederhana
+**Python Dasar**  
+• Data cleaning sederhana dengan Pandas  
+• Manipulasi data dasar  
+• Membaca file CSV & Excel  
+• Analisis eksplorasi sederhana
 
-**SQL Dasar**
-• Query SELECT dengan WHERE
-• JOIN tabel (INNER, LEFT)
-• Fungsi agregat (SUM, COUNT, AVG)
-• Grouping data dengan GROUP BY
+**SQL Dasar**  
+• Query SELECT dengan WHERE  
+• JOIN tabel sederhana  
+• Aggregate functions (SUM, COUNT)  
+• Filtering data
 
 </td>
 <td width="50%">
 
-**Excel & Spreadsheets**
-• Pivot Tables dasar
-• Formula sederhana (SUM, COUNTIF)
-• Membuat chart (bar, line, pie)
-• Formatting data dasar
+**Excel Dasar**  
+• Pivot tables  
+• Formula dasar (SUM, AVERAGE)  
+• Membuat chart sederhana  
+• Data validation dasar
 
-**Tools**
-• Google Colab untuk Python
-• VS Code untuk coding
-• MySQL Workbench
-• Git untuk version control
+**Visualisasi**  
+• Line chart & bar chart  
+• Pie chart  
+• Basic formatting  
+• Export gambar
 
 </td>
 </tr>
@@ -48,55 +57,88 @@
 
 ---
 
-## 📈 **Portfolio Pembelajaran**
+## 📈 **Portfolio Pembelajaran - 8 Minggu Progres**
 
-### **Minggu 1: Data Cleaning Dasar**
-**Topik:** Python & Pandas untuk pembersihan data  
-**Proyek:** Membersihkan dataset penjualan toko retail  
-**Keterampilan:** Mengatasi missing values, formatting data, filtering  
-**[Lihat Repo →](https://github.com/username/week1)**
+### **Minggu 1: Pengenalan Python & Data**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Python dasar untuk data | Variabel, tipe data, struktur data |
+| **Tools** | Google Colab, Pandas | Environment setup |
+| **Proyek** | Analisis data sederhana | Dataset kecil dengan 100 baris |
+| **Output** | Cleaning data basic | Remove duplicates, handle missing |
 
-### **Minggu 2: SQL Query Dasar**
-**Topik:** MySQL untuk query data  
-**Proyek:** Analisis data pelanggan dengan query  
-**Keterampilan:** SELECT, WHERE, JOIN, GROUP BY  
-**[Lihat Repo →](https://github.com/username/week2)**
+### **Minggu 2: Data Cleaning dengan Pandas**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Data cleaning techniques | Handling null values, formatting |
+| **Tools** | Pandas, NumPy dasar | Data manipulation |
+| **Proyek** | Cleaning dataset toko | Dataset penjualan bulanan |
+| **Output** | Dataset clean siap analisis | CSV file terstruktur |
 
-### **Minggu 3: Visualisasi Data Sederhana**
-**Topik:** Matplotlib untuk grafik dasar  
-**Proyek:** Membuat dashboard penjualan bulanan  
-**Keterampilan:** Line chart, bar chart, pie chart  
-**[Lihat Repo →](https://github.com/username/week3)**
+### **Minggu 3: SQL Fundamentals**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Query dasar MySQL | SELECT, FROM, WHERE |
+| **Tools** | MySQL Workbench | Database management |
+| **Proyek** | Query data pelanggan | Database sederhana |
+| **Output** | Laporan query results | Export ke CSV/Excel |
 
-### **Minggu 4: Analisis Data dengan Excel**
-**Topik:** Excel untuk analisis cepat  
-**Proyek:** Laporan keuangan sederhana  
-**Keterampilan:** Pivot tables, formulas, conditional formatting  
-**[Lihat Repo →](https://github.com/username/week4)**
+### **Minggu 4: SQL Lanjutan & JOINs**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | JOIN operations | INNER, LEFT, RIGHT JOIN |
+| **Tools** | MySQL, Python connector | Integration basics |
+| **Proyek** | Multi-table analysis | Join 2-3 tabel relasional |
+| **Output** | Combined dataset | Data dari multiple sources |
 
-### **Minggu 5: Integrasi Python & SQL**
-**Topik:** Menghubungkan Python ke database  
-**Proyek:** ETL sederhana untuk data pelanggan  
-**Keterampilan:** Koneksi database, query dari Python  
-**[Lihat Repo →](https://github.com/username/week5)**
+### **Minggu 5: Visualisasi Data Dasar**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Matplotlib dasar | Line, bar, pie charts |
+| **Tools** | Matplotlib, Jupyter | Visualization setup |
+| **Proyek** | Sales dashboard | Monthly trends visualization |
+| **Output** | Grafik statis | PNG/JPEG exports |
 
-### **Minggu 6: Analisis Eksplorasi Dasar**
-**Topik:** EDA (Exploratory Data Analysis)  
-**Proyek:** Analisis dataset produk  
-**Keterampilan:** Statistik deskriptif, data profiling  
-**[Lihat Repo →](https://github.com/username/week6)**
+### **Minggu 6: Excel untuk Analisis**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Excel formulas & pivot | SUMIF, VLOOKUP dasar |
+| **Tools** | Excel/Google Sheets | Spreadsheet analysis |
+| **Proyek** | Financial report | Simple budgeting analysis |
+| **Output** | Pivot tables & charts | Interactive Excel file |
 
-### **Minggu 7: Proyek Analisis Sederhana**
-**Topik:** Analisis end-to-end sederhana  
-**Proyek:** Analisis performa produk  
-**Keterampilan:** Full workflow dari cleaning sampai insight  
-**[Lihat Repo →](https://github.com/username/week7)**
+### **Minggu 7: Integrated Project**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | End-to-end simple analysis | Full workflow |
+| **Tools** | Python, SQL, Excel | Multi-tool integration |
+| **Proyek** | Product performance analysis | E-commerce dataset |
+| **Output** | Comprehensive report | Analysis + visualization |
 
 ### **Minggu 8: Capstone Project**
-**Topik:** Proyek analisis lengkap  
-**Proyek:** Analisis data e-commerce  
-**Keterampilan:** Semua keterampilan dasar digabungkan  
-**[Lihat Repo →](https://github.com/username/week8)**
+| **Aspek** | **Detail** | **Keterangan** |
+|-----------|------------|----------------|
+| **Topik** | Complete data analysis | All skills combined |
+| **Tools** | Full stack dasar | Python, SQL, Excel, Git |
+| **Proyek** | Business case analysis | Realistic scenario |
+| **Output** | Portfolio project | GitHub repository complete |
+
+### **Repositori GitHub**
+<div align="center">
+
+[![Week 1](https://img.shields.io/badge/Week_1-Python_dasar-blue?style=flat-square)](https://github.com/username/week1)
+[![Week 2](https://img.shields.io/badge/Week_2-Data_cleaning-green?style=flat-square)](https://github.com/username/week2)
+[![Week 3](https://img.shields.io/badge/Week_3-SQL_dasar-orange?style=flat-square)](https://github.com/username/week3)
+[![Week 4](https://img.shields.io/badge/Week_4-SQL_JOINs-purple?style=flat-square)](https://github.com/username/week4)
+
+<br>
+
+[![Week 5](https://img.shields.io/badge/Week_5-Visualisasi-red?style=flat-square)](https://github.com/username/week5)
+[![Week 6](https://img.shields.io/badge/Week_6-Excel_analysis-yellow?style=flat-square)](https://github.com/username/week6)
+[![Week 7](https://img.shields.io/badge/Week_7-Integrated_project-blueviolet?style=flat-square)](https://github.com/username/week7)
+[![Week 8](https://img.shields.io/badge/Week_8-Capstone-success?style=flat-square)](https://github.com/username/week8)
+
+</div>
 
 ---
 
@@ -115,40 +157,38 @@
 ## 💼 **Kesiapan PKL**
 
 ### **Apa yang Bisa Saya Bantu:**
-1. **Membersihkan data** yang tidak teratur
-2. **Membuat query sederhana** untuk mengambil data
-3. **Membuat grafik dan chart** untuk presentasi
-4. **Menganalisis data** dengan Excel atau Python sederhana
-5. **Mendokumentasikan** proses analisis
+1. **Data Preparation**: Cleaning dan organizing data sederhana
+2. **Basic Analysis**: Analisis statistik dasar
+3. **Reporting**: Membuat laporan dengan visualisasi sederhana
+4. **Documentation**: Mendokumentasikan proses analisis
 
-### **Yang Saya Butuhkan:**
-- Bimbingan dan arahan dari supervisor
-- Tugas yang sesuai dengan kemampuan dasar
-- Kesempatan belajar tools dan teknik baru
-- Feedback untuk perbaikan
+### **Ekspektasi Saya:**
+- Pembelajaran langsung dari praktisi
+- Bimbingan dalam menyelesaikan tugas
+- Pengalaman dengan data dan tools industri
 
 ---
 
-## ✨ **Keunggulan**
+## ✨ **Nilai Tambah**
 
 <table>
 <tr>
 <td width="50%">
 
-### **Sikap Kerja**
-- **Teliti**: Memeriksa data dengan hati-hati
-- **Mau belajar**: Terbuka untuk ilmu baru
-- **Jujur**: Mengakui keterbatasan dan bertanya
-- **Disiplin**: Mengikuti instruksi dengan baik
+### **Keunggulan**
+- 🔍 **Teliti** dalam data cleaning
+- 📚 **Mau belajar** tools dan teknik baru
+- 🤝 **Bisa bekerja sama** dalam tim
+- 📊 **Rapi** dalam dokumentasi
 
 </td>
 <td width="50%">
 
-### **Kesiapan**
-- **Dasar teknikal**: Memahami fundamental
-- **Portfolio nyata**: Sudah praktek langsung
-- **Dokumentasi**: Mencatat proses belajar
-- **GitHub aktif**: Menyimpan semua proyek
+### **Siap Untuk**
+- ✅ Tugas analisis data dasar
+- ✅ Proyek dengan bimbingan
+- ✅ Belajar sambil bekerja
+- ✅ Berkontribusi dalam tim
 
 </td>
 </tr>
@@ -156,7 +196,7 @@
 
 ---
 
-## 📞 **Kontak**
+## 📞 **Kontak & Koneksi**
 
 <div align="center">
 
@@ -171,7 +211,7 @@
 
 <div align="center">
 
-### **"Siswa SMK yang serius belajar analisis data, mencari kesempatan PKL untuk berkembang bersama tim profesional."**
+### **"Siswa yang antusias belajar analisis data, mencari kesempatan PKL untuk belajar langsung dari praktisi."**
 
 </div>
 

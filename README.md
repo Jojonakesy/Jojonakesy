@@ -75,8 +75,8 @@ graph LR
 <div align="center">
 
 [![Week 1](https://img.shields.io/badge/Week_1-Masa_Pengenalan-blue?style=flat-square)]()
-[![Week 2](https://img.shields.io/badge/Week_2-Data-Collection-&-Understanding-green?style=flat-square)](https://github.com/Jojonakesy/Basis-data-week-2)
-[![Week 3](https://img.shields.io/badge/Week_3-Data-Cleaning-&-Preparation-orange?style=flat-square)](https://github.com/Jojonakesy/Basis-Data-week-3)
+[![Week 2](https://img.shields.io/badge/Week_2-Data-Collection-Understanding-green?style=flat-square)](https://github.com/Jojonakesy/Basis-data-week-2)
+[![Week 3](https://img.shields.io/badge/Week_3-Data-Cleaning-Preparation-orange?style=flat-square)](https://github.com/Jojonakesy/Basis-Data-week-3)
 [![Week 4](https://img.shields.io/badge/Week_4-SQL_JOINs-purple?style=flat-square)](https://github.com/username/week4)
 
 <br>

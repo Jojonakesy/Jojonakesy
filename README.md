@@ -149,8 +149,8 @@ graph LR
 <div align="center">
 
 ### **Hubungi Saya**
-📧 **Email**: email@example.com  
-💼 **GitHub**: [github.com/username](https://github.com/username)  
+📧 **Email**: Jorajonathanrdtyy@gmail.com 
+💼 **GitHub**: [github.com/Jojonakesy](https://github.com/Jojonakesy)  
 📍 **Lokasi**: Surakarta, Jawa Tengah
 
 </div>

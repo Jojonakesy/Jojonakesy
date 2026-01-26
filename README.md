@@ -59,69 +59,17 @@ graph LR
 
 ## 📈 **Portfolio Pembelajaran - 8 Minggu Progres**
 
-### **Minggu 1: Pengenalan Python & Data**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Python dasar untuk data | Variabel, tipe data, struktur data |
-| **Tools** | Google Colab, Pandas | Environment setup |
-| **Proyek** | Analisis data sederhana | Dataset kecil dengan 100 baris |
-| **Output** | Cleaning data basic | Remove duplicates, handle missing |
-
-### **Minggu 2: Data Cleaning dengan Pandas**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Data cleaning techniques | Handling null values, formatting |
-| **Tools** | Pandas, NumPy dasar | Data manipulation |
-| **Proyek** | Cleaning dataset toko | Dataset penjualan bulanan |
-| **Output** | Dataset clean siap analisis | CSV file terstruktur |
-
-### **Minggu 3: SQL Fundamentals**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Query dasar MySQL | SELECT, FROM, WHERE |
-| **Tools** | MySQL Workbench | Database management |
-| **Proyek** | Query data pelanggan | Database sederhana |
-| **Output** | Laporan query results | Export ke CSV/Excel |
-
-### **Minggu 4: SQL Lanjutan & JOINs**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | JOIN operations | INNER, LEFT, RIGHT JOIN |
-| **Tools** | MySQL, Python connector | Integration basics |
-| **Proyek** | Multi-table analysis | Join 2-3 tabel relasional |
-| **Output** | Combined dataset | Data dari multiple sources |
-
-### **Minggu 5: Visualisasi Data Dasar**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Matplotlib dasar | Line, bar, pie charts |
-| **Tools** | Matplotlib, Jupyter | Visualization setup |
-| **Proyek** | Sales dashboard | Monthly trends visualization |
-| **Output** | Grafik statis | PNG/JPEG exports |
-
-### **Minggu 6: Excel untuk Analisis**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Excel formulas & pivot | SUMIF, VLOOKUP dasar |
-| **Tools** | Excel/Google Sheets | Spreadsheet analysis |
-| **Proyek** | Financial report | Simple budgeting analysis |
-| **Output** | Pivot tables & charts | Interactive Excel file |
-
-### **Minggu 7: Integrated Project**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | End-to-end simple analysis | Full workflow |
-| **Tools** | Python, SQL, Excel | Multi-tool integration |
-| **Proyek** | Product performance analysis | E-commerce dataset |
-| **Output** | Comprehensive report | Analysis + visualization |
-
-### **Minggu 8: Capstone Project**
-| **Aspek** | **Detail** | **Keterangan** |
-|-----------|------------|----------------|
-| **Topik** | Complete data analysis | All skills combined |
-| **Tools** | Full stack dasar | Python, SQL, Excel, Git |
-| **Proyek** | Business case analysis | Realistic scenario |
-| **Output** | Portfolio project | GitHub repository complete |
+### **Progres Mingguan**
+| **Week** | **Materi** | **Status** |
+|----------|------------|------------|
+| **Week 1** | Python dasar & Pandas pengenalan | ✅ Selesai |
+| **Week 2** | Data cleaning dengan Python | ✅ Selesai |
+| **Week 3** | SQL query dasar (SELECT, WHERE) | ✅ Selesai |
+| **Week 4** | SQL JOINs dan aggregate functions | ✅ Selesai |
+| **Week 5** | Visualisasi dengan Matplotlib | ✅ Selesai |
+| **Week 6** | Excel untuk analisis data | ✅ Selesai |
+| **Week 7** | Proyek analisis terintegrasi | ✅ Selesai |
+| **Week 8** | Capstone project akhir | ✅ Selesai |
 
 ### **Repositori GitHub**
 <div align="center">
@@ -135,7 +83,7 @@ graph LR
 
 [![Week 5](https://img.shields.io/badge/Week_5-Visualisasi-red?style=flat-square)](https://github.com/username/week5)
 [![Week 6](https://img.shields.io/badge/Week_6-Excel_analysis-yellow?style=flat-square)](https://github.com/username/week6)
-[![Week 7](https://img.shields.io/badge/Week_7-Integrated_project-blueviolet?style=flat-square)](https://github.com/username/week7)
+[![Week 7](https://img.shields.io/badge/Week_7-Project_terintegrasi-blueviolet?style=flat-square)](https://github.com/username/week7)
 [![Week 8](https://img.shields.io/badge/Week_8-Capstone-success?style=flat-square)](https://github.com/username/week8)
 
 </div>

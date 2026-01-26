@@ -1,113 +1,106 @@
-# JONATHAN RADITYA
-**Calon Data Analyst | Siswa PKL SMK Negeri 5 Surakarta**
-
----
+# **Jonathan Raditya | Calon Data Analyst**
 
 <div align="center">
-
-📧 email@example.com | 📍 Solo, Jawa Tengah | 🔗 [github.com/username](https://github.com/username)
+  
+### Siswa PKL | SMK Negeri 5 Surakarta
+**Siap belajar dan berkontribusi dalam analisis data**
 
 </div>
 
 ---
 
-## PROFIL PROFESIONAL
-Siswa SMK jurusan Teknik Komputer dan Jaringan dengan passion kuat dalam bidang analisis data. Melalui pembelajaran mandiri yang intensif selama 8 minggu, telah menguasai fundamental tools analisis data modern dan siap mengaplikasikannya dalam lingkungan kerja profesional melalui program PKL.
+## 📊 **Keterampilan Teknis**
 
----
-
-## KOMPETENSI TEKNIS
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### **📈 Analisis Data**
-- **Python & Pandas**: Data cleaning, transformation, exploratory analysis
-- **SQL Fundamentals**: Querying, filtering, aggregation dengan MySQL
-- **Data Visualization**: Matplotlib untuk grafik dasar hingga menengah
-- **Statistical Basics**: Descriptive statistics, trend analysis
-
-</td>
-<td width="50%">
-
-### **🛠️ Tools & Platform**
-- **Development**: VS Code, Google Colab, Jupyter Notebook
-- **Database**: MySQL Workbench, phpMyAdmin
-- **Version Control**: Git & GitHub workflow
-- **Productivity**: Excel, Google Sheets, Google Drive
-
-</td>
-</tr>
-</table>
-
-### **Tingkat Penguasaan**
-```plaintext
-Python & Pandas:      ████████░░   80%   [Data manipulation & cleaning]
-SQL Queries:          ██████░░░░   65%   [Basic to intermediate queries]
-Data Visualization:   █████░░░░░   55%   [Static charts & graphs]
-Git & Collaboration:  ██████░░░░   60%   [Repo management & documentation]
+### **Bahasa & Teknologi**
+```mermaid
+graph LR
+    A[Python<br>Pandas, Matplotlib] --> B[SQL<br>MySQL]
+    B --> C[Tools<br>VS Code, Excel, Git]
+    C --> D[Visualisasi<br>Chart & Grafik]
 ```
 
+### **Level Kemampuan**
+- **Python & Pandas**: Data cleaning, transformasi, analisis dasar
+- **SQL**: Query data, filtering, aggregation sederhana
+- **Excel**: Formula dasar, pivot tables, charting
+- **Git**: Version control untuk dokumentasi kode
+
 ---
 
-## PORTOFOLIO PEMBELAJARAN
+## 📈 **Portfolio Pembelajaran**
 
-### **🎯 Learning Journey: 8-Week Intensive**
+### **Progres 8 Minggu Belajar Mandiri**
+| Minggu | Fokus Pembelajaran | Proyek Contoh | Status |
+|--------|-------------------|---------------|---------|
+| **1-2** | Fundamental Python & Pandas | Data cleaning dataset sederhana | ✅ |
+| **3-4** | SQL Dasar & Query | Analisis data pelanggan | ✅ |
+| **5-6** | Visualisasi Data | Dashboard penjualan bulanan | ✅ |
+| **7-8** | Proyek Integrasi | Analisis e-commerce lengkap | ✅ |
+
+### **Repositori GitHub**
 <div align="center">
 
-| **Phase** | **Duration** | **Focus Area** | **Key Projects** | **Outcomes** |
-|-----------|--------------|----------------|------------------|--------------|
-| **Foundation** | Week 1-2 | Python & Pandas Mastery | Data Cleaning Toolkit | 5+ cleaning scripts |
-| **Database** | Week 3-4 | SQL Proficiency | Customer Analytics | 20+ optimized queries |
-| **Visualization** | Week 5-6 | Data Storytelling | Sales Dashboard | Interactive reports |
-| **Integration** | Week 7-8 | End-to-end Analysis | E-commerce Analysis | Full case study |
+[![Week 1](https://img.shields.io/badge/Week_1-Data_Cleaning-blue?style=flat-square)](https://github.com/username/week1)
+[![Week 2](https://img.shields.io/badge/Week_2-SQL_Query-green?style=flat-square)](https://github.com/username/week2)
+[![Week 3](https://img.shields.io/badge/Week_3-Visualization-orange?style=flat-square)](https://github.com/username/week3)
+[![Week 4](https://img.shields.io/badge/Week_4-ETL_Pipeline-purple?style=flat-square)](https://github.com/username/week4)
+
+[![Week 5](https://img.shields.io/badge/Week_5-Dashboard-red?style=flat-square)](https://github.com/username/week5)
+[![Week 6](https://img.shields.io/badge/Week_6-Data_Analysis-yellow?style=flat-square)](https://github.com/username/week6)
+[![Week 7](https://img.shields.io/badge/Week_7-Integration-blueviolet?style=flat-square)](https://github.com/username/week7)
+[![Week 8](https://img.shields.io/badge/Week_8-Capstone_Project-success?style=flat-square)](https://github.com/username/week8)
 
 </div>
 
-### **🌟 Highlighted Projects**
+---
+
+## 🎓 **Profil Pendidikan**
+
+<div align="center">
+
+**SMK NEGERI 5 SURAKARTA**
+*Teknik Komputer dan Jaringan*
+*Kelas XII - Siswa Aktif*
+
+</div>
+
+---
+
+## 💼 **Kesiapan PKL**
+
+### **Apa yang Bisa Saya Bantu:**
+1. **Data Preparation**: Cleaning dan organizing data
+2. **Basic Analysis**: Analisis statistik sederhana
+3. **Reporting**: Membuat laporan dengan visualisasi
+4. **Documentation**: Mendokumentasikan proses analisis
+
+### **Ekspektasi Saya:**
+- Pembelajaran langsung dari praktisi
+- Bimbingan dalam menyelesaikan tugas
+- Pengalaman dengan data dan tools industri
+
+---
+
+## ✨ **Nilai Tambah**
+
 <table>
 <tr>
-<td>
+<td width="50%">
 
-#### **📊 Sales Performance Dashboard**
-*Tools: Python, Pandas, Matplotlib*  
-- Analisis trend penjualan 6 bulan
-- Identifikasi produk top performer  
-- Visualisasi multi-chart dashboard
-- **[View Project →](https://github.com/username/week5)**
-
-</td>
-<td>
-
-#### **🔍 Customer Segmentation Analysis**  
-*Tools: SQL, Python, Excel*
-- Segmentasi 500+ pelanggan
-- RFM analysis sederhana
-- Insight untuk marketing strategy
-- **[View Project →](https://github.com/username/week3)**
+### **Keunggulan**
+- 🔍 **Detail-oriented** dalam data cleaning
+- 📚 **Cepat belajar** tools dan teknik baru
+- 🤝 **Kolaboratif** dan terbuka untuk feedback
+- 📊 **Struktur kerja** yang rapi dan terdokumentasi
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%">
 
-#### **📈 E-commerce Analytics**
-*Tools: End-to-end pipeline*
-- Complete data analysis workflow
-- Business recommendations
-- Professional documentation
-- **[View Project →](https://github.com/username/week8)**
-
-</td>
-<td>
-
-#### **⚙️ Data Automation Scripts**
-*Tools: Python, Git*
-- Automated data cleaning
-- Report generation
-- Error handling included
-- **[View Project →](https://github.com/username/week4)**
+### **Siap Untuk**
+- ✅ Tugas analisis data dasar
+- ✅ Proyek dengan bimbingan
+- ✅ Learning on the job
+- ✅ Berkontribusi dalam tim
 
 </td>
 </tr>
@@ -115,111 +108,14 @@ Git & Collaboration:  ██████░░░░   60%   [Repo management & 
 
 ---
 
-## PENDIDIKAN & SERTIFIKASI
-
-### **🎓 SMK Negeri 5 Surakarta**
-*Teknik Komputer dan Jaringan | 2022 - Sekarang*
-
-**Relevant Coursework:**
-- Dasar Pemrograman Python
-- Manajemen Database
-- Sistem Informasi
-- Jaringan Komputer
-
-**Aktivitas:**
-- Anggota klub programming sekolah
-- Praktikum laboratorium komputer
-- Projek akhir berbasis data analysis
-
-### **📜 Certifications & Learning**
-- Self-paced Data Analysis Curriculum (8 weeks)
-- GitHub Portfolio Development
-- Technical Documentation Practice
-
----
-
-## NILAI TAMBAH UNTUK ORGANISASI
-
-### **💡 Why Choose Me for PKL?**
-<table>
-<tr>
-<td width="33%">
-
-#### **Technical Readiness**
-- Sudah hands-on dengan tools industri
-- Portfolio nyata dengan kode production-ready
-- Fast learner untuk teknologi baru
-
-</td>
-<td width="33%">
-
-#### **Professional Mindset**
-- Dokumentasi rapi dan terstruktur
-- Communication skills dalam tim
-- Problem-solving approach
-
-</td>
-<td width="33%">
-
-#### **Business Awareness**
-- Memahami konteks bisnis dari data
-- Analytical thinking untuk insight
-- Actionable recommendations
-
-</td>
-</tr>
-</table>
-
-### **🚀 Expected Contributions**
-1. **Immediate Value**
-   - Data cleaning & preparation tasks
-   - Basic analysis & reporting
-   - Documentation support
-
-2. **Growth Potential**
-   - Advanced analysis with guidance
-   - Process optimization suggestions
-   - Team collaboration enhancement
-
----
-
-## AVAILABILITY & COMMITMENT
-
-### **📅 PKL Program Details**
-- **Status**: Siswa SMK aktif kelas XII
-- **Duration**: 3-6 bulan (sesuai kurikulum sekolah)
-- **Schedule**: Senin-Jumat, jam sekolah
-- **Location**: Solo & sekitarnya (flexible)
-- **Start Date**: Immediate availability
-
-### **🎯 Career Objectives**
-- Mengaplikasikan skills di lingkungan profesional
-- Learning from industry practitioners
-- Building professional network
-- Contributing to real business problems
-
----
-
-## TESTIMONI & REFERENSI
-
-> "Jonathan menunjukkan dedikasi tinggi dalam pembelajaran mandiri. Portofolionya mencerminkan pemahaman fundamental yang kuat untuk level siswa SMK."
-> **— Guru Pembimbing TKJ, SMK Negeri 5 Surakarta**
-
-> "Proyek-proyek GitHub-nya terstruktur dengan baik dan menunjukkan progress pembelajaran yang konsisten."
-> **— Mentor Online, Data Science Community**
-
----
-
-## KONTAK & LINK
+## 📞 **Kontak & Koneksi**
 
 <div align="center">
 
-| **Channel** | **Details** | **Primary Purpose** |
-|-------------|-------------|---------------------|
-| **📧 Email** | email@example.com | Formal communication |
-| **💼 GitHub** | [github.com/username](https://github.com/username) | Technical portfolio review |
-| **📱 WhatsApp** | 08xx-xxxx-xxxx | Quick coordination |
-| **📍 Location** | Surakarta, Jawa Tengah | On-site availability |
+### **Hubungi Saya**
+📧 **Email**: email@example.com  
+💼 **GitHub**: [github.com/username](https://github.com/username)  
+📍 **Lokasi**: Surakarta, Jawa Tengah
 
 </div>
 
@@ -227,10 +123,89 @@ Git & Collaboration:  ██████░░░░   60%   [Repo management & 
 
 <div align="center">
 
-### **✨ READY TO CONTRIBUTE & LEARN ✨**
-*Membawa foundational skills yang solid dan mindset pembelajaran yang aktif*
-
-**Portfolio tersedia untuk review technical depth →** [github.com/username](https://github.com/username)
+### **"Antusias belajar, siap berkontribusi, dan ingin berkembang di bidang data analysis."**
 
 </div>
 
+---
+
+<style>
+/* Animasi halus */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animasi untuk section */
+section, table, .mermaid {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+/* Hover effects */
+table tr:hover {
+  background: linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%);
+  transition: all 0.3s ease;
+}
+
+/* Styling untuk badges */
+a[href*="github"] img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+a[href*="github"]:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Gradien untuk header */
+div[align="center"]:first-child {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+/* Card effect untuk tabel */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Kontak section styling */
+div[align="center"]:last-child {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-top: 2rem;
+}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'neutral',
+    flowchart: {
+      curve: 'basis'
+    },
+    securityLevel: 'loose'
+  });
+  
+  // Animasi sequential untuk sections
+  document.addEventListener('DOMContentLoaded', function() {
+    const elements = document.querySelectorAll('section, table, .mermaid, div[align="center"]');
+    elements.forEach((el, index) => {
+      el.style.animationDelay = `${index * 0.1}s`;
+    });
+  });
+</script>

@@ -74,7 +74,7 @@ graph LR
 ### **Repositori GitHub**
 <div align="center">
 
-[![Week 1](https://img.shields.io/badge/Week_1-Python_dasar-blue?style=flat-square)](https://github.com/username/week1)
+[![Week 1](https://img.shields.io/badge/Week_1-Python_dasar-blue?style=flat-square)]([https://github.com/username/week1](https://github.com/Jojonakesy/Basis-data-week-1))
 [![Week 2](https://img.shields.io/badge/Week_2-Data_cleaning-green?style=flat-square)](https://github.com/username/week2)
 [![Week 3](https://img.shields.io/badge/Week_3-SQL_dasar-orange?style=flat-square)](https://github.com/username/week3)
 [![Week 4](https://img.shields.io/badge/Week_4-SQL_JOINs-purple?style=flat-square)](https://github.com/username/week4)

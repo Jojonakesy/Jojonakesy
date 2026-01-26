@@ -62,14 +62,14 @@ graph LR
 ### **Progres Mingguan**
 | **Week** | **Materi** | **Status** |
 |----------|------------|------------|
-| **Week 1** | Python dasar & Pandas pengenalan | ✅ Selesai |
-| **Week 2** | Data cleaning dengan Python | ✅ Selesai |
-| **Week 3** | SQL query dasar (SELECT, WHERE) | ✅ Selesai |
-| **Week 4** | SQL JOINs dan aggregate functions | ✅ Selesai |
-| **Week 5** | Visualisasi dengan Matplotlib | ✅ Selesai |
-| **Week 6** | Excel untuk analisis data | ✅ Selesai |
-| **Week 7** | Proyek analisis terintegrasi | ✅ Selesai |
-| **Week 8** | Capstone project akhir | ✅ Selesai |
+| **Week 1** |  | ✅ Selesai |
+| **Week 2** | | ✅ Selesai |
+| **Week 3** |  |  Belum |
+| **Week 4** |  | Belum |
+| **Week 5** |  |Belum |
+| **Week 6** |  | Belum |
+| **Week 7** | | Belum |
+| **Week 8** | |Belum |
 
 ### **Repositori GitHub**
 <div align="center">

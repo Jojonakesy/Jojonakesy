@@ -1,4 +1,4 @@
-# **Jonathan Raditya | Calon Data Analyst**
+# **Jonathan Raditya | Junior Data Analyst**
 
 <div align="center">
   

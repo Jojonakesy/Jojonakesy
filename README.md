@@ -63,7 +63,7 @@ graph LR
 | **Week** | **Materi** | **Status** |
 |----------|------------|------------|
 | **Week 1** |  Orientasi Industri & Setup Tools| ✅ Selesai |
-| **Week 2** | | ✅ Selesai |
+| **Week 2** | Data Collection & Understanding | ✅ Selesai |
 | **Week 3** |  |  Belum |
 | **Week 4** |  | Belum |
 | **Week 5** |  |Belum |
@@ -75,7 +75,7 @@ graph LR
 <div align="center">
 
 [![Week 1](https://img.shields.io/badge/Week_1-Python_dasar-blue?style=flat-square)]()
-[![Week 2](https://img.shields.io/badge/Week_2-Data_cleaning-green?style=flat-square)](https://github.com/username/week2)
+[![Week 2](https://img.shields.io/badge/Week_2-Data_cleaning-green?style=flat-square)](https://github.com/Jojonakesy/Basis-data-week-2)
 [![Week 3](https://img.shields.io/badge/Week_3-SQL_dasar-orange?style=flat-square)](https://github.com/username/week3)
 [![Week 4](https://img.shields.io/badge/Week_4-SQL_JOINs-purple?style=flat-square)](https://github.com/username/week4)
 

@@ -64,7 +64,7 @@ graph LR
 |----------|------------|------------|
 | **Week 1** |  Orientasi Industri & Setup Tools| ✅ Selesai |
 | **Week 2** | Data Collection & Understanding | ✅ Selesai |
-| **Week 3** | Data Cleaning & Preparation | ✅ Selesai  |
+| **Week 3** | Data Cleaning & Preparation | Belum  |
 | **Week 4** |  | Belum |
 | **Week 5** |  |Belum |
 | **Week 6** |  | Belum |
